@@ -4,13 +4,13 @@
 
 ##  About Me
 
-- I'm a young person who tries all sorts of ways to achieve his dreams and deals with software.
+- I'm a young person who tries all sorts of ways to achieve my dreams and deals with software.
 
 - I'm interested in game design as a hobby, but I'm mainly advancing on cybersecurity.
 
 - I strive to learn most of the coding languages to be able to do these things.
 
-- Basically I'm studying Computer Engineering in college.
+- Right now I'm studying Computer Engineering in university.
 
 -  How to reach me samiuysal.business@gmail.com
 <h3 align="left">Languages and Tools:</h3>
