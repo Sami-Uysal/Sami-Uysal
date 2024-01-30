@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami-uysal&show_icons=true&theme=dark&locale=en&layout=compact" alt="sami-uysal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-uysal&show_icons=true&theme=dark&locale=en" alt="sami-uysal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-uysal&theme=dark" alt="sami-uysal" /></p>
