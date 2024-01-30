@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **samiuysal.business@gmail.com**
 
-- 📄 Know about my experiences [https://samiuysal.com/](https://samiuysal.com/)
+- 📄 Know about my experiences [samiuysal.com](https://samiuysal.com/)
 
 - ⚡ Fun fact **I like playing games and researching.**
 
