@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **samiuysal.business@gmail.com**
 
-- 📄 Know about my experiences [http://samiuysal.com/](http://samiuysal.com/)
+- 📄 Know about my experiences [Personal Site](https://sami-uysal.github.io/)
 
 
 ### Blogs posts
