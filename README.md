@@ -5,12 +5,6 @@
 
 - 📄 Know about my experiences [Personal Site](https://sami-uysal.github.io/)
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<a href="https://medium.com/@samiuysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samiuysal" height="30" width="40" /></a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://github.com/JetBrains/logos/blob/master/web/jetbrains/icon.svg" alt="jetbrains" width="40" height="40"/> </a>
