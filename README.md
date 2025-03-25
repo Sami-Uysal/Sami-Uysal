@@ -19,3 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami-uysal&show_icons=true&theme=dark&locale=en&layout=compact" alt="sami-uysal" /></p>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Nandor/30-nites-of-code)  
+  ![@Nandor #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nandor)
+
