@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="45" height="45"/> </a>
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/unrealengine/white" alt="unrealengine" width="45" height="45"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
@@ -29,9 +29,12 @@
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sami-Uysal&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sami-Uysal&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sami-uysal&show_icons=true&theme=tokyonight&hide_border=true" alt="Sami's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-uysal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sami-Uysal&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
+
