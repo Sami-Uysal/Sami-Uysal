@@ -10,6 +10,8 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sami-Uysal&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sami-Uysal&theme=tokyonight" alt="GitHub Stats" />
